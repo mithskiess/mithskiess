@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithskiess&label=Profile%20views&color=0e75b6&style=flat" alt="mithskiess" /p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithskiess" alt="mithskiess" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL amd Some of Data Visualization tools such as Power BI and Tableau**
+- 🌱 I’m currently learning **Python, SQL and Some of Data Visualization tools such as Power BI and Tableau**
 - 📫 How to reach me **Mitharahma49@gmail.com**
 - 📄 Know about my experiences **https://bit.ly/MithaResume**
 - ⚡ Fun fact **I'm a cute girl😊🤗**
